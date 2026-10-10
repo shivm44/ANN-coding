@@ -1,4 +1,4 @@
-# This project is the implenentation of AND logic gate function using perceptron algorithm.
+# This project is the implenentation of OR logic gate function using perceptron algorithm.
 
 # taking input from the user. 
 x_input = []
